@@ -33,9 +33,4 @@ The dataset contains job titles, annual salaries, currencies, and additional fie
 
 ### 📈 Results
 
-I documented the process and results in the notebook (`Pandas_Cleaning.ipynb`), which includes:
-
-- **Cleaned Data**: I handled missing values and removed invalid entries.
-- **Outlier Detection**: I filtered out rows with salaries that exceeded the upper bounds of acceptable ranges (based on IQR per category).
-- **Standardized Salaries**: I converted all salary data into USD.
-- **AI-driven Category Reallocation**: I intelligently grouped smaller categories into larger, more meaningful ones.
+I documented the process and results in the [`Pandas_Cleaning.ipynb`](Pandas_Cleaning.ipynb) notebook.
