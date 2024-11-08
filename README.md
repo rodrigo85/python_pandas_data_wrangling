@@ -2,6 +2,8 @@
 
 In this project, I demonstrate how I analyze and clean salary data using **Pandas**. My goal is to prepare the data for deeper analysis by addressing missing values, detecting outliers, converting salaries across different currencies, and reallocating industry categories with AI.
 
+Check the code here: [`Pandas_Cleaning.ipynb`](Pandas_Cleaning.ipynb).
+
 #### 🛠️ Tools & Technologies
 
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) **Pandas**: Used for data cleaning, wrangling, and manipulation.
